@@ -3,7 +3,7 @@
 **Mechatronics Engineering Student @ NJIT**  
 Passionate about robotics, embedded systems, and building real-world tech with code + circuits.
 
-[![LinkedIn](https://www.linkedin.com/in/mohamadmuh/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mohamadmuh/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github)](https://mohamadmuhammad.github.io)
 
 ---
