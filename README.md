@@ -47,5 +47,3 @@ Passionate about robotics, embedded systems, and building real-world tech with c
 ## Contact Me
 
 - Email: mohamadtmuhammad@outlook.com  
-- LinkedIn: [linkedin.com/in/mohamad-muhammad](https://www.linkedin.com/in/mohamad-muhammad)  
-- Portfolio: [mohamadmuhammad.github.io](https://mohamadmuhammad.github.io)
